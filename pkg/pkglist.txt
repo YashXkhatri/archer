@@ -1,0 +1,98 @@
+# Generated with makepkglist.sh
+# - https://github.com/mietinen/archer
+
+acpid                           # A daemon for delivering ACPI power management events with netlink support
+aic94xx-firmware                # Adaptec SAS 44300, 48300, 58300 Sequencer Firmware for AIC94xx driver (AUR)
+alacritty                       # A cross-platform, GPU-accelerated terminal emulator
+ast-firmware                    # Aspeed VGA module from the IPMI (AUR)
+base                            # Minimal package set to define a basic Arch Linux installation
+base-devel                      # Basic tools to build Arch Linux packages
+blueman                         # GTK+ Bluetooth Manager
+broadcom-bt-firmware            # Firmware for Broadcom Bluetooth devices (AUR)
+broadcom-wl-dkms                # Broadcom 802.11 Linux STA wireless driver
+dkms                            # Dynamic Kernel Modules System
+efibootmgr                      # Linux user-space application to modify the EFI Boot Manager
+exo                             # Application library for the Xfce desktop environment
+fastfetch                       # A feature-rich and performance oriented neofetch like system information tool
+garcon                          # Freedesktop.org compliant menu library
+git                             # the fast distributed version control system
+grub                            # GNU GRand Unified Bootloader (2)
+gvfs                            # Virtual filesystem implementation for GIO
+less                            # A terminal based program for viewing text files
+librewolf-bin                   # Community-maintained fork of Firefox, focused on privacy, security and freedom. (AUR)
+lightdm                         # A lightweight display manager
+lightdm-gtk-greeter             # GTK+ greeter for LightDM
+lightdm-gtk-greeter-settings    # Settings editor for the LightDM GTK+ Greeter
+linux                           # The Linux kernel and modules
+linux-firmware                  # Firmware files for Linux
+linux-headers                   # Headers and scripts for building modules for the Linux kernel
+mousepad                        # Simple text editor for Xfce
+neovim                          # Fork of Vim aiming to improve user experience, plugins, and GUIs
+networkmanager                  # Network connection manager and user applications
+network-manager-applet          # Applet for managing network connections
+parole                          # Modern media player based on the GStreamer framework
+pavucontrol                     # PulseAudio Volume Control
+pipewire                        # Low-latency audio/video router and processor
+pipewire-alsa                   # Low-latency audio/video router and processor - ALSA configuration
+pipewire-jack                   # Low-latency audio/video router and processor - JACK replacement
+pipewire-pulse                  # Low-latency audio/video router and processor - PulseAudio replacement
+plank                           # Elegant, simple, clean dock
+ristretto                       # A fast and lightweight picture viewer for Xfce
+spleen-font                     # Monospaced bitmap fonts for user interface including console (OTB, OTF, PSFU) (AUR)
+thunar                          # Modern, fast and easy-to-use file manager for Xfce
+thunar-archive-plugin           # Adds archive operations to the Thunar file context menus
+thunar-media-tags-plugin        # Adds special features for media files to the Thunar File Manager
+thunar-volman                   # Automatic management of removable drives and media for Thunar
+torbrowser-launcher             # Securely and easily download, verify, install, and launch Tor Browser in Linux
+ttf-terminus-nerd               # Patched font Terminus (Terminess) from nerd fonts library
+tumbler                         # Thumbnail service implementing the thumbnail management D-Bus specification
+unzip                           # For extracting and viewing files in .zip archives
+upd72020x-fw                    # Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware (AUR)
+vulkan-radeon                   # Open-source Vulkan driver for AMD GPUs
+xarchiver                       # GTK+ frontend to various command line archivers
+xdg-user-dirs                   # Manage user directories like ~/Desktop and ~/Music
+xf86-video-amdgpu               # X.org amdgpu video driver
+xfce4-appfinder                 # Application launcher and finder
+xfce4-artwork                   # Backdrops for the Xfce4 desktop
+xfce4-battery-plugin            # A battery monitor plugin for the Xfce panel
+xfce4-clipman-plugin            # A clipboard plugin for the Xfce4 panel
+xfce4-cpufreq-plugin            # CPU frequency and governor plugin for the Xfce4 panel
+xfce4-cpugraph-plugin           # Graphical representation of the CPU load
+xfce4-dict                      # A dictionary plugin for the Xfce panel
+xfce4-diskperf-plugin           # Displays instant disk/partition performance in the Xfce4 panel
+xfce4-eyes-plugin               # A rolling eyes (following mouse pointer) plugin for the Xfce panel
+xfce4-fsguard-plugin            # File system usage monitor plugin for the Xfce4 panel
+xfce4-genmon-plugin             # plugin that monitors customizable programs stdout for the Xfce4 panel
+xfce4-mailwatch-plugin          # Multi-protocol, multi-mailbox mail watcher for the Xfce4 panel
+xfce4-mount-plugin              # Mount/umount utility for the Xfce4 panel
+xfce4-mpc-plugin                # Control the Music Player Daemon from the Xfce4 panel
+xfce4-netload-plugin            # A netload plugin for the Xfce panel
+xfce4-notes-plugin              # Notes plugin for the Xfce panel
+xfce4-panel                     # Panel for the Xfce desktop environment
+xfce4-panel-profiles            # Simple application to manage Xfce panel layouts
+xfce4-places-plugin             # A menu with quick access to folders, documents, and removable media
+xfce4-power-manager             # Power Manager for Xfce
+xfce4-pulseaudio-plugin         # Pulseaudio plugin for the Xfce4 panel
+xfce4-screensaver               # Xfce Screensaver
+xfce4-screenshooter             # An application to take screenshots
+xfce4-sensors-plugin            # Sensors plugin for the Xfce panel
+xfce4-session                   # Xfce's session manager
+xfce4-settings                  # Xfce's Configuration System
+xfce4-smartbookmark-plugin      # Allows you to send requests directly to your browser and perform a custom search
+xfce4-systemload-plugin         # System load plugin for the Xfce panel
+xfce4-taskmanager               # Easy to use task manager
+xfce4-time-out-plugin           # Take a break from your computer with this plugin for Xfce4
+xfce4-timer-plugin              # Plugin to track time for the Xfce4 panel
+xfce4-verve-plugin              # Command line plugin for the Xfce panel
+xfce4-wavelan-plugin            # Plugin to monitor wifi connectivity for the Xfce4 panel
+xfce4-weather-plugin            # A weather plugin for the Xfce4 panel
+xfce4-whiskermenu-plugin        # Menu for Xfce4
+xfce4-xkb-plugin                # Plugin to switch keyboard layouts for the Xfce4 panel
+xfconf                          # D-Bus-based configuration storage system
+xfdesktop                       # Xfce's desktop manager
+xfwm4                           # Xfce's window manager
+xfwm4-themes                    # A set of additional themes for the Xfce window manager
+xreader                         # Document viewer for files like PDF and Postscript. X-Apps Project.
+yay-bin                         # Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled. (AUR)
+yay-bin-debug                   # Detached debugging symbols for yay-bin (AUR)
+zsh                             # A very advanced and programmable command interpreter (shell) for UNIX
