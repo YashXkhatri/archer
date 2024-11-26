@@ -14,7 +14,7 @@
 [ -n "$1" ] && list="$(cat "$@" | grep -oE '^[^(#|[:space:])]*' | sort -u)"
 
 echo "# Generated with makepkglist.sh"
-echo "# - https://github.com/mietinen/archer"
+echo "# - https://github.com/yashXkhatri/archer"
 echo
 for p in $(comm -23 <(pacman -Qqe | sort -u) <(echo "$list")); do
     desc="$(pacman -Qi "$p" | grep Description | cut -d: -f2)"

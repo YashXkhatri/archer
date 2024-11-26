@@ -1,5 +1,5 @@
 # Generated with makepkglist.sh
-# - https://github.com/mietinen/archer
+# - https://github.com/yashXkhatri/archer
 
 acpid                           # A daemon for delivering ACPI power management events with netlink support
 aic94xx-firmware                # Adaptec SAS 44300, 48300, 58300 Sequencer Firmware for AIC94xx driver (AUR)

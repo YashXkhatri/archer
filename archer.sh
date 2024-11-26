@@ -38,7 +38,7 @@ pkglist=(
 # ------------------------------------------------------------------------------
 # Dotfiles git repo (git bare style)
 # ------------------------------------------------------------------------------
-dotfilesrepo="https://github.com/mietinen/dots.git"
+dotfilesrepo="https://github.com/yashXkhatri/xfce-dracula.git"
 
 # ------------------------------------------------------------------------------
 # End of settings
